@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img">
+<title>New Business Filings — US State Registry Leads Feed — JavaScript example by Devil Scrapes</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#1A0B0B"/><stop offset="0.55" stop-color="#0A0606"/><stop offset="1" stop-color="#3B0A0A"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.18" cy="0.5" r="0.45">
+<stop offset="0" stop-color="#DC2626" stop-opacity="0.45"/><stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="tile"><rect x="80" y="60" width="240" height="240" rx="44"/></clipPath>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#glow)"/>
+<rect x="0" y="352" width="1280" height="8" fill="#DC2626"/>
+<g clip-path="url(#tile)"><svg x="80" y="60" width="240" height="240" viewBox="0 0 400 400"><rect width="400" height="400" fill="#DC2626"/>
+
+  
+  <path d="M 30 0 L 145 0 Q 120 35 80 80 Q 55 38 30 0 Z" fill="#0A0606"/>
+  <path d="M 255 0 L 370 0 Q 345 38 320 80 Q 280 35 255 0 Z" fill="#0A0606"/>
+
+  
+  <circle cx="200" cy="230" r="115" fill="#FFF8E7" stroke="#0A0606" stroke-width="4"/>
+
+  
+  <g transform="translate(200, 230)">
+
+    
+    <g transform="rotate(-6)">
+      <path d="M -62 -80 L 32 -80 L 62 -50 L 62 82 L -62 82 Z"
+            fill="#F5E6CC" stroke="#0A0606" stroke-width="4" stroke-linejoin="round"/>
+      
+      <path d="M 32 -80 L 62 -50 L 32 -50 Z"
+            fill="#E3CE9F" stroke="#0A0606" stroke-width="3" stroke-linejoin="round"/>
+      
+      <rect x="-46" y="-62" width="88" height="10" rx="5" fill="#0A0606"/>
+      
+      <rect x="-46" y="-36" width="92" height="9" rx="4.5" fill="#0A0606" opacity="0.55"/>
+      <rect x="-46" y="-16" width="72" height="9" rx="4.5" fill="#0A0606" opacity="0.55"/>
+      <rect x="-46" y="4" width="80" height="9" rx="4.5" fill="#0A0606" opacity="0.55"/>
+    </g>
+
+    
+    <g transform="translate(40, 55)">
+      <circle r="38" fill="#1E3A5F" stroke="#0A0606" stroke-width="4"/>
+      <circle r="28" fill="none" stroke="#FFF8E7" stroke-width="2.5" stroke-dasharray="3 4"/>
+      <path d="M 0 -20 L 4.70 -6.47 L 19.02 -6.18 L 7.61 2.47 L 11.76 16.18 L 0 8 L -11.76 16.18 L -7.61 2.47 L -19.02 -6.18 L -4.70 -6.47 Z"
+            fill="#FCD34D" stroke="#0A0606" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+
+    
+    <g transform="translate(46, -68)">
+      <circle r="24" fill="#DC2626" stroke="#0A0606" stroke-width="4"/>
+      <path d="M 0 -12 L 0 12 M -12 0 L 12 0" stroke="#FFF8E7" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </g></svg></g>
+<rect x="80" y="60" width="240" height="240" rx="44" fill="none" stroke="#FFF8E7" stroke-opacity="0.18" stroke-width="2"/>
+<text x="400" y="138" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFF8E7">New Business Filings</text>
+<text x="400" y="196" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#E7DCCB">Companies formed in NY, CO, CT and OR between two dates,</text><text x="400" y="232" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#E7DCCB">from state open data, as JSON and CSV.</text>
+<rect x="400" y="262" width="156" height="40" rx="20" fill="#DC2626"/>
+<text x="478.0" y="289" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFF8E7" text-anchor="middle">JavaScript</text>
+<text x="572" y="289" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#B9AA97">Apify Actor example · Devil Scrapes</text>
+</svg>

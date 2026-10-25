@@ -1,0 +1,11 @@
+{
+  "dateFrom": "2026-10-01",
+  "jurisdictions": [
+    "NY",
+    "CO"
+  ],
+  "maxResultsPerJurisdiction": 5,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
